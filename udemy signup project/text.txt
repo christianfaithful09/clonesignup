@@ -1,0 +1,8 @@
+a website is made up of three layers: the heeader,body and footer.
+margin is a space around and element outside a define border.
+p and dev tag are block level element while span is an inline element.
+style selector used to remove default magin, denoted bt *. it selects every tag in the html.
+meta tag helps in responsiveness.
+layer modules float layout,position and block.<outdated>
+flex,grid and media query<used currently>
+flex; flex container and flex items
